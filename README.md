@@ -1,4 +1,8 @@
 # LLM-FT-Base-Advanceo1
+
+<br>
+<img src="plots/llm_training.png" alt="LLM Training" align="middle" height=500>
+
 LLM Fine-Tuning
 This repository provides an overview and implementation of various techniques for fine-tuning large language models (LLMs), including Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF).
 
